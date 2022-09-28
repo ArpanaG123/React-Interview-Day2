@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Baumans&family=Fascinate&family=Lobster&family=Manrope:wght@400;500&display=swap');
+
+.que1{
+    font-family: 'Lobster', cursive;
+    color:#590696;
+    font-size: 20px;
+}
+
+.items{
+    font-family: 'Lobster', cursive;
+}
+
+.hommie{
+    color: red;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+.abbie{
+    color: red;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+.box1{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    background-color: aqua;
+    text-align: center;
+}
+
+.box2{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    background-color:greenyellow;
+    text-align: center;
+}
+
+.abb{
+    margin: auto;
+}
+
+.main{
+    background-color: #B1E1FF;
+}
